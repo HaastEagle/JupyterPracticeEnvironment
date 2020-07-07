@@ -10,5 +10,3 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
-    - networkx
-    - netwulf
